@@ -2,5 +2,5 @@
 def display_rainbow(arr)
   first = ["R", "O", "Y", "G", "B", "I", "V"]
   
-  puts("#{first[0]}: ")
+  puts("#{first[0]}: #{arr[0]}")
 end  
